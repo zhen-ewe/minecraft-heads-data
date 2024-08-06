@@ -1,10 +1,5 @@
 [
-    {
-        "name": "AppleHead",
-        "texture": "texture_url_for_apple"
-    },
-    {
-        "name": "BreadHead",
-        "texture": "texture_url_for_bread"
-    }
+    {"name": "Player1"},
+    {"name": "Player2"},
+    {"name": "Player3"}
 ]
