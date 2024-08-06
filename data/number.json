@@ -1,0 +1,10 @@
+[
+    {
+        "name": "OneHead",
+        "texture": "texture_url_for_one"
+    },
+    {
+        "name": "TwoHead",
+        "texture": "texture_url_for_two"
+    }
+]
