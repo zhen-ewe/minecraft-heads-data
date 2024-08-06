@@ -1,0 +1,10 @@
+[
+    {
+        "name": "StoneHead",
+        "texture": "texture_url_for_stone"
+    },
+    {
+        "name": "DirtHead",
+        "texture": "texture_url_for_dirt"
+    }
+]
